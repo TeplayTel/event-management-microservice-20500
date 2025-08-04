@@ -1,1 +1,3 @@
-# event-management-microservice-20500
+# Project Repository
+
+This is the initial README file for the project.
